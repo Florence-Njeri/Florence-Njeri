@@ -9,9 +9,9 @@ I am a software developer.
 - 🌱 I’m currently learning a lot about Clean Architecture
 - 👯 I’m looking to collaborate on android projects
 - 🤔 I’m looking opportunities about Android Development.
-- 💬 Ask me about anything
-- 📫 How to reach me:
-
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
 
+#### 📫 Get in touch
+
+- Twitter https://twitter.com/flozzy_flo
+- LinkedIn https://www.linkedin.com/in/lydiah-florence-njeri-b5a951142/

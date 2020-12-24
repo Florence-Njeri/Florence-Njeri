@@ -13,5 +13,5 @@ I am a software developer who has previosly worked on Sports and Finance Android
 
 #### 📫 Get in touch
 
-- Twitter https://twitter.com/flozzy_flo
+- Twitter https://twitter.com/njericodes
 - LinkedIn https://www.linkedin.com/in/florence-njeri-b5a951142/ 

@@ -1,4 +1,4 @@
-### Who is Florence and what does she do?
+# Who is Florence and what does she do?
 
 <!--
 **Florence-Njeri/Florence-Njeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -9,7 +9,7 @@ When I'm not working I'm perfecting my knowlege in Ruby on Rails and reading as 
 ## Fun fact about me
 I did not speak fluent English till I was 10 years old.
 
-#### 📫 Get in touch
+## 📫 Get in touch
 
 - Twitter https://twitter.com/njericodes
 - LinkedIn https://www.linkedin.com/in/florence-njeri-b5a951142/ 

@@ -6,7 +6,7 @@ Florence is a software engineering graduate with one year industry experience wo
 
 When I'm not working I'm perfecting my knowlege in Ruby on Rails and reading as many books as I can.
 
-##Fun fact about me
+## Fun fact about me
 I did not speak fluent English till I was 10 years old.
 
 #### 📫 Get in touch

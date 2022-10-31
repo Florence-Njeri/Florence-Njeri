@@ -12,7 +12,6 @@ I have first hand experience working with web and mobile applications, quality a
   - [Mobile Regression Testing vs Unit Testing Explained](https://www.waldo.com/blog/mobile-regression-testing-vs-unit-testing)
   - [Intro to Cron and Editing your Crontab Schedule](https://www.airplane.dev/blog/intro-to-cron-and-editing-your-crontab-schedule)
   - [Schedule Jobs in Ruby on Rails with Whenever gem](https://betterprogramming.pub/schedule-jobs-in-ruby-on-rails-with-whenever-gem-7cb12f0a8a9e)
-- I am currently running about Kubernetes
 - You can reach out to me via [LinkedIn](https://www.linkedin.com/in/florencenjeri)
 - While not coding I read novels or go hiking!
 

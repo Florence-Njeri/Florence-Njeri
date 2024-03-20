@@ -4,7 +4,7 @@
 **Florence-Njeri/Florence-Njeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 I am software engineer living and working remotely from Kenya. I am passionate about writing and maintaining high quality, well-tested code and as well as an open source enthusiast.
 I have first hand experience working with web and mobile applications, quality assurance and writing technical documentation.
-- I'm a Software Engineer in Test (SDET) at Wattics
+- I'm a Software Engineer in Test (SDET)
 - I create technical content in the form of talks and writing technical documentation/articles.
 - I contribute regularly to open source
 - Here are some of my recent articles:

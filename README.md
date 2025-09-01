@@ -10,7 +10,4 @@ I am a cybersecurity engineering student with a strong passion for breaking deve
   - [Schedule Jobs in Ruby on Rails with Whenever gem](https://betterprogramming.pub/schedule-jobs-in-ruby-on-rails-with-whenever-gem-7cb12f0a8a9e)
 - You can reach out to me via [LinkedIn](https://www.linkedin.com/in/florencenjeri)
 
-**Hobbies**
-Reading thriller novels and fantasy, travelling, eating
-
 Stalk me :) https://florencenjeri.netlify.app/
